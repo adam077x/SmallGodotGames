@@ -1,0 +1,8 @@
+C:\Users\Adam\Documents\Godot Projects\Island\.mono\temp\obj\Debug\Island.csprojAssemblyReference.cache
+C:\Users\Adam\Documents\Godot Projects\Island\.mono\temp\obj\Debug\Island.AssemblyInfoInputs.cache
+C:\Users\Adam\Documents\Godot Projects\Island\.mono\temp\obj\Debug\Island.AssemblyInfo.cs
+C:\Users\Adam\Documents\Godot Projects\Island\.mono\temp\obj\Debug\Island.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Documents\Godot Projects\Island\.mono\temp\bin\Debug\Island.dll
+C:\Users\Adam\Documents\Godot Projects\Island\.mono\temp\bin\Debug\Island.pdb
+C:\Users\Adam\Documents\Godot Projects\Island\.mono\temp\obj\Debug\Island.dll
+C:\Users\Adam\Documents\Godot Projects\Island\.mono\temp\obj\Debug\Island.pdb
